@@ -26,7 +26,7 @@
   "require": {
     "php": ">=5.5.9",
     "ext-mbstring": "*",
-    "guzzlehttp/guzzle": "^6.2|^7",
+    "guzzlehttp/guzzle": "^7",
     "symfony/polyfill-php56": "^1.2",
     "symfony/event-dispatcher": "^3.1"
   },
