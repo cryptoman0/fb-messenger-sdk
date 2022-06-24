@@ -28,7 +28,7 @@
     "ext-mbstring": "*",
     "guzzlehttp/guzzle": "^7",
     "symfony/polyfill-php56": "^1.2",
-    "symfony/event-dispatcher": "^3.1"
+    "symfony/event-dispatcher": "^6"
   },
   "require-dev": {
     "phpspec/phpspec": "^2.5"
